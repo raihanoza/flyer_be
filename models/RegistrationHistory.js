@@ -2,7 +2,7 @@
 const { DataTypes } = require("sequelize");
 const sequelize = require("../config/db"); // Sesuaikan dengan lokasi konfigurasi koneksi database Anda
 
-const RegistrationHistory = sequelize.define("registrationhistories", {
+const RegistrationHistory = sequelize.define("RegistrationHistories", {
   id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
