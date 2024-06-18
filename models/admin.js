@@ -2,7 +2,7 @@
 const { DataTypes } = require("sequelize");
 const sequelize = require("../config/db"); // Sesuaikan dengan lokasi konfigurasi koneksi database Anda
 
-const Admin = sequelize.define("admin", {
+const Admin = sequelize.define("Admins", {
   id: {
     type: DataTypes.INTEGER,
     primaryKey: true,

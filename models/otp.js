@@ -3,7 +3,7 @@ const { DataTypes } = require("sequelize");
 const sequelize = require("../config/db"); // Sesuaikan dengan lokasi konfigurasi koneksi database Anda
 
 const Otp = sequelize.define(
-  "otp",
+  "Otps",
   {
     phone: {
       type: DataTypes.STRING,

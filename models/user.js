@@ -2,7 +2,7 @@
 const { DataTypes } = require("sequelize");
 const sequelize = require("../config/db"); // Sesuaikan dengan lokasi konfigurasi koneksi database Anda
 const User = sequelize.define(
-  "user",
+  "Users",
   {
     phone: {
       type: DataTypes.STRING,

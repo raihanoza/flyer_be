@@ -2,7 +2,7 @@
 const { DataTypes } = require("sequelize");
 const sequelize = require("../config/db"); // Sesuaikan dengan lokasi konfigurasi koneksi database Anda
 
-const Item = sequelize.define("item", {
+const Item = sequelize.define("Items", {
   id: {
     type: DataTypes.INTEGER,
     primaryKey: true,
