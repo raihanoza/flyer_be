@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "qssairir_ameera",
-    "password": "Ameer@18",
-    "database": "qssairir_flyer_ameera",
-    "host": "103.123.62.104",
+    "username": "mbstravel",
+    "password": "T@kbir99kali",
+    "database": "ameera_flyer",
+    "host": "217.15.175.139",
     "dialect": "mysql"
   },
   "test": {
-    "username": "qssairir_ameera",
-    "password": "Ameer@18",
-    "database": "qssairir_flyer_ameera",
-    "host": "103.123.62.104",
+    "username": "mbstravel",
+    "password": "T@kbir99kali",
+    "database": "ameera_flyer",
+    "host": "217.15.175.139",
     "dialect": "mysql"
   },
   "production": {
-    "username": "qssairir_ameera",
-    "password": "Ameer@18",
-    "database": "qssairir_flyer_ameera",
-    "host": "103.123.62.104",
+    "username": "mbstravel",
+    "password": "T@kbir99kali",
+    "database": "ameera_flyer",
+    "host": "217.15.175.139",
     "dialect": "mysql"
   }
 }
